@@ -27,3 +27,4 @@ Select this option for choose a numeric rename
 
 4) Press "Rename" button and run the program:
 
+![Rename](https://user-images.githubusercontent.com/45762539/151360643-7128fd8a-9b8e-4207-ae28-ce9056d22674.png)
